@@ -1,0 +1,10 @@
+**/nbproject/private/
+**/nbproject/
+**/build/
+**/dist/
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+*.zip
+nbdist/
