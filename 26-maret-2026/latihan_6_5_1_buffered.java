@@ -6,7 +6,7 @@ package latiham;
 
 /**
  *
- * @author Lenovo
+ * @author Saidina
  */
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
